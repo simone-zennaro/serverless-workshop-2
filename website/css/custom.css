@@ -1,0 +1,11 @@
+#confirmSection, #signinSection, #loggedInSection {
+    display: none;
+}
+
+body {
+    background-color: black;
+}
+
+h2{
+    text-align: center;
+}
